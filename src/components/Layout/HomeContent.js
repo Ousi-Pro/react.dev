@@ -209,10 +209,10 @@ export function HomeContent() {
           <Center>
             <Header>Add interactivity wherever you need it</Header>
             <Para>
-              React components receive data and return what should appear on the
-              screen. You can pass them new data in response to an interaction,
-              like when the user types into an input. React will then update the
-              screen to match the new data.
+              React components receive data and render what appears on the screen.
+              They can dynamically update this display in response to user interactions,
+              such as typing into an input field. React automatically adjusts the screen
+              to reflect any changes in the data.
             </Para>
           </Center>
           <FullBleed>
